@@ -2,7 +2,7 @@
 const ResumeDownload = () => {
   return (
     <a
-      href="/Milan_Arshad_Resume.pdf"
+      href="https://res.cloudinary.com/db39f2k2p/image/upload/v1764363752/Milan_Mohan_Ekanna_Resume_eeygeg.pdf"
       target="_blank"
       rel="noopener noreferrer"
       className="animate-bounce flex px-6 py-2 bg-[#452829] hover:bg-[#3B060A] text-[#FBF3D1] rounded-full font-bold transition-colors duration-300 border-2 border-transparent hover:border-[#FBF3D1]"
